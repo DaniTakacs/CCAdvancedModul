@@ -1,0 +1,5 @@
+C:\Repos\FileManager\SanityArchiver.Application\bin\Release\SanityArchiver.Application.dll
+C:\Repos\FileManager\SanityArchiver.Application\bin\Release\SanityArchiver.Application.pdb
+C:\Repos\FileManager\SanityArchiver.Application\obj\Release\SanityArchiver.Application.csproj.CoreCompileInputs.cache
+C:\Repos\FileManager\SanityArchiver.Application\obj\Release\SanityArchiver.Application.dll
+C:\Repos\FileManager\SanityArchiver.Application\obj\Release\SanityArchiver.Application.pdb

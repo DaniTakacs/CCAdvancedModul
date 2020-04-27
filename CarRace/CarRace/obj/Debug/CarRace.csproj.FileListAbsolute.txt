@@ -1,0 +1,14 @@
+C:\Repos\CarRace\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Repos\CarRace\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Repos\CarRace\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Repos\CarRace\CarRace\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\Repos\CarRace\CarRace\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Repos\CarRace\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Repos\CarRace\CarRace\CarRace\obj\Debug\CarRace.pdb
+C:\Repos\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Repos\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Repos\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Repos\CarRace\CarRace\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\Repos\CarRace\CarRace\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Repos\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Repos\CarRace\CarRace\obj\Debug\CarRace.pdb

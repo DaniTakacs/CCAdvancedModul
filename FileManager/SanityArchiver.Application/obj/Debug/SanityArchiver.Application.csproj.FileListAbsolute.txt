@@ -1,0 +1,7 @@
+C:\Repos\FileManager\SanityArchiver.Application\bin\Debug\SanityArchiver.Application.xml
+C:\Repos\FileManager\SanityArchiver.Application\bin\Debug\SanityArchiver.Application.dll
+C:\Repos\FileManager\SanityArchiver.Application\bin\Debug\SanityArchiver.Application.pdb
+C:\Repos\FileManager\SanityArchiver.Application\obj\Debug\SanityArchiver.Application.csprojAssemblyReference.cache
+C:\Repos\FileManager\SanityArchiver.Application\obj\Debug\SanityArchiver.Application.csproj.CoreCompileInputs.cache
+C:\Repos\FileManager\SanityArchiver.Application\obj\Debug\SanityArchiver.Application.dll
+C:\Repos\FileManager\SanityArchiver.Application\obj\Debug\SanityArchiver.Application.pdb
